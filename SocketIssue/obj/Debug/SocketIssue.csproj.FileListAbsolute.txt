@@ -1,0 +1,6 @@
+C:\DevProjects\Dotnet.Core.Stuff\SocketIssue\SocketIssue\bin\Debug\SocketIssue.exe.config
+C:\DevProjects\Dotnet.Core.Stuff\SocketIssue\SocketIssue\bin\Debug\SocketIssue.exe
+C:\DevProjects\Dotnet.Core.Stuff\SocketIssue\SocketIssue\bin\Debug\SocketIssue.pdb
+C:\DevProjects\Dotnet.Core.Stuff\SocketIssue\SocketIssue\obj\Debug\SocketIssue.csprojResolveAssemblyReference.cache
+C:\DevProjects\Dotnet.Core.Stuff\SocketIssue\SocketIssue\obj\Debug\SocketIssue.exe
+C:\DevProjects\Dotnet.Core.Stuff\SocketIssue\SocketIssue\obj\Debug\SocketIssue.pdb
